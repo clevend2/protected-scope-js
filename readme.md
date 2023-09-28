@@ -1,5 +1,5 @@
 # Protected Scope for JS Classes
-This is an explorational project I took on personally to utilize Weakmaps to create a private (and protected) visibility level for Javascript Classes (or constructors in general). With official standards on the horizon and such things as typescript, I don't know that, even optimized and robustly tested, this would be of use. It did however exercise some deeper JS muscles. 
+This is an explorational project I took on personally back in 2018 to utilize Weakmaps to create a private (and protected) visibility level for Javascript Classes (or constructors in general). With official standards on the horizon and such things as typescript, I don't know that, even optimized and robustly tested, this would be of use. It did however exercise some deeper JS muscles. 
  
 ### MAIN CONCEPTS / TIERS OF STORAGE:
 
